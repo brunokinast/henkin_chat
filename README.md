@@ -1,6 +1,6 @@
 # HenkinChat
 
-Um chat desenvolvido usando Firebase.
+Um chat desenvolvido em Flutter usando Firebase.
 
 ## Screenshots
 
